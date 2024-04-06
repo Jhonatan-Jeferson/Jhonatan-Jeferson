@@ -3,6 +3,7 @@
 Hello, I am Jhonatan Jeferson. I am studying Computer Science.
 I know how to code in python, but still learning some things in it.
 
+I have an personal account named Morrido241, and I've uploaded again one of mine repositories on this account.
 
 <!--
 **Jhonatan-Jeferson/Jhonatan-Jeferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
