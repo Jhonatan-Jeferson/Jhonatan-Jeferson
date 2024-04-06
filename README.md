@@ -1,6 +1,6 @@
 ### About Me
 
-Hello, I am Jhonatan Jeferson. I am studying Computer Science.\n
+Hello, I am Jhonatan Jeferson. I am studying Computer Science.
 I know how to code in python, but still learning some things in it.
 
 
